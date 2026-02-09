@@ -10,6 +10,8 @@
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
 [![Chainlink VRF](https://img.shields.io/badge/Chainlink-VRF%20v2.5-375BD2?style=flat-square&logo=chainlink)](https://chain.link/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Verified](https://img.shields.io/badge/BSCScan-Verified-green?style=flat-square&logo=ethereum)](https://bscscan.com/address/0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2#code)
+
 [English](#english) | [中文](#中文)
 
 </div>
@@ -37,7 +39,7 @@ Buy WIZARD → Burn Tokens → Mint Item (VRF Random Quality) → Earn Shares �
 
 | Network | Address | Verified Source |
 |---------|---------|-----------------|
-| **BSC Mainnet** | *Coming Soon* | — |
+| **BSC Mainnet** | [`0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2`](https://bscscan.com/address/0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2) | [View on BSCScan](https://bscscan.com/address/0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2#code) |
 
 ## Contract Architecture
 
@@ -154,7 +156,7 @@ WizardDAO 是 BSC 链上的 GameFi + DeFi 平台。用户燃烧 WIZARD 代币铸
 
 | 网络 | 地址 | 验证源码 |
 |------|------|----------|
-| **BSC 主网** | *即将公布* | — |
+| **BSC 主网** | [`0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2`](https://bscscan.com/address/0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2) | [BSCScan 查看源码](https://bscscan.com/address/0x764b08Dc29bA6cd698Be29a3DA11a1826B5618E2#code) |
 
 ## 合约架构
 
