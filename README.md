@@ -1,6 +1,6 @@
 <div align="center">
 
-# WizardDAO
+# WizardDAO-EtherTest
 
 **Wizard-Themed GameFi Burn & Dividend Platform on BNB Smart Chain**
 
