@@ -248,6 +248,10 @@ WizardDAO.sol
 - [Chainlink VRF v2.5](https://docs.chain.link/vrf) — 可验证随机函数
 - [PancakeSwap](https://pancakeswap.finance/) — DEX 价格预言机
 
+## Built With
+
+- Smart contract architecture & security audit powered by [Claude](https://claude.ai) (Anthropic)
+
 ---
 
 <div align="center">
